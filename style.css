@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap');
+
+body{
+    background-color: cadetblue;
+    color: whitesmoke;
+    font-family:"Bai Jamjuree", sans serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #8B4513;
+    color: bisque;
+    font-family: "Bai Jamjuree", sans-serif;
+}
